@@ -41,14 +41,14 @@ export default function Contact() {
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
         
-            <div className="lg:w-2/3 px-6 mt-4 lg:mt-0">
+            <div className="lg:w-3/4 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed" href="mailto:samtang226@gmail.com">
                 samtang226@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-3xs mt-4">
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
               <a href="tel:+12533941971">253-394-1971</a>

@@ -8,28 +8,28 @@ export const projects = [
     link: "https://github.com/yomyyo/yelling-game",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Hangman",
+    subtitle: "HTML CSS JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple hangman game built out of the basics.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/yomyyo/Word-Guess-Game",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Spacely",
+    subtitle: "Next.js Node DynamoDB AWS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A full stack application Airbnb clone mixed that allows users to list their empty rooms in the house for rent or lets users request roommates. I was the lead developer in this co-developed project.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/nununuam/BuNKApp",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "TommyBOT",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple discord bot that moves users into certain roles for spamming too many messages at once. Built with plain python and the discord dev package for bots.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/yomyyo/SammyBOT",
   },
 ];
 
@@ -37,9 +37,9 @@ export const skills = [
   "Java",
   "Python",
   "Node",
+  "PHP",
   "JavaScript",
   "React",
-  "CSS",
   "Tailwind",
   "Bootstrap",
   "MySql",

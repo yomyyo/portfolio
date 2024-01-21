@@ -11,7 +11,8 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          <span role="img" aria-label="Waving Emoji">👋</span> Hello, I'm Sammy Tang, a dedicated software engineer with a passion for crafting robust, scalable, and maintainable software solutions. I thrive on turning complex ideas into elegant, user-friendly applications.
+          <span role="img" aria-label="Waving Emoji">👋</span> Hello, I'm Sammy Tang, a dedicated software engineer with a passion for crafting robust, scalable, and maintainable software solutions. 
+                                    I thrive on turning complex ideas into elegant, user-friendly applications. My hobbies include League of Legends, basketball, and reading. If you have any questions, feel free to reach out!
           </p>
           <div className="flex justify-center">
             <a
